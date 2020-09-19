@@ -10,5 +10,5 @@
 4. Skills: html, css.
 5. Code examples: error 404 not found ;)
 6. Experience: currently have no working experience in this field 
-7. Education (including courses, seminars, lectures, online learning)
+7. Education: online introduction course of HTMS and CSS 
 8. English B1
