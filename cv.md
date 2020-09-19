@@ -8,7 +8,7 @@
    My main hobby is photography.
    Recently I realized that I want to try my hand in programming. I would like to write a code, but also to design projects. I was started studying HTML and SCC and I liked it. I hope that this course helps me to improve my skills.
 4. Skills: html, css.
-5. Code examples
-6. Experience
+5. Code examples: error 404 not found ;)
+6. Experience: currently have no working experience in this field 
 7. Education (including courses, seminars, lectures, online learning)
 8. English B1
